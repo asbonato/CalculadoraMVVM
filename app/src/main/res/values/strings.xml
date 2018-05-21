@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculadoraMVP</string>
+    <string name="app_name">CalculadoraMVVM</string>
     <string name="valor1">Inteiro 1</string>
     <string name="valor2">Inteiro 2</string>
     <string name="operador">+,-,*,/</string>
